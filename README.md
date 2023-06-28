@@ -1,1 +1,1 @@
-# html-practice
+showcasing use of basic html elements.
